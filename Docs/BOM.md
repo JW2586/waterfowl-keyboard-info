@@ -26,7 +26,7 @@ Item | Quantity | Part No. | Comments
 128x64 OLED | 2 | SSD1306
 Rotary encoder | 2 | ALPS EC11
 Roller encoder | 2 | Panasonic EVQWGD001
-Encoder knobs | 2 | 
+Encoder knobs | 2 | | https://xentricguitars.com/
 3-pin JST socket | 2 | DF3A-3P-2DS | 3 pins to support both orientations of red and black wire
 Power switch | 2 | MSK-12C02
 
